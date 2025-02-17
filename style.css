@@ -15,6 +15,7 @@ body{
 .photo{
     height: 300px;
     width: 33%;
+    background-color: #522a2a;
     background-image: url(myphoto.jpeg);
     background-size: contain;
 }
